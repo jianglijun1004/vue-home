@@ -110,10 +110,6 @@ npm run dev
 │       └── filter.js
 └── static
 ```
-#### vue-home/config/index.js 
-
-![vue-home/config/index.js图](http://upload-images.jianshu.io/upload_images/5287253-30138bb5cd33b265.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 ``  
 assetsPublicPath: '/vue-home/dist'
 ``
