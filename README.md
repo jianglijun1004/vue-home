@@ -110,6 +110,4 @@ npm run dev
 │       └── filter.js
 └── static
 ```
-``  
-assetsPublicPath: '/vue-home/dist'
-``
+
