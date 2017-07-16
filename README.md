@@ -1,8 +1,8 @@
-## vue-family
+## vue-home
 
 >技术点 
 
-用vue社区提供的API，基于vue+vue-cli+vue-router+axios+webpack开发的vue社区webapp
+用vue社区提供的API，基于vue+vue-cli+vue-router+axios+webpack开发的vue社区
 
 UI用Muse-UI
 
@@ -103,4 +103,4 @@ npm run build
 │   └── util                //时间过滤器，转换时间格式
 │       └── filter.js
 └── static
-
+```
