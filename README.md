@@ -17,7 +17,7 @@ css用scss，flex布局，rem做移动端适配，最终效果web端移动端都
 [点击查看gif动图展示](http://ooytyiziz.bkt.clouddn.com/vue-home.gif)
 
 ### 手机扫描查看效果
-![手机扫描查看效果](https://github.com/Hxvin/vue-home/blob/master/src/assets/1495982696.png)
+![手机扫描查看效果](https://github.com/jianglijun1004/vue-home/blob/master/src/assets/1495982696.png)
 
 > 完成功能
 
